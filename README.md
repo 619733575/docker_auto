@@ -1,0 +1,2 @@
+# docker_auto
+这是基于python开发docker图形管理平台
